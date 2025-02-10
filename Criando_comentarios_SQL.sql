@@ -1,8 +1,8 @@
--- 1. Criar uma frase que explica o funcionamento de um determinado c骴igo 
--- 2. Coementar apenas uma parte de um c骴igo e executar o restante
--- 3. Comentar todo um trecho de um c骴igo de maneira r醦ida e otimizada
+-- 1. Criar uma frase que explica o funcionamento de um determinado c贸digo 
+-- 2. Comentar apenas uma parte de um c贸digo e executar o restante
+-- 3. Comentar todo um trecho de um c贸digo de maneira r谩pida e otimizada
 
---Este c骴igo seleciona as colunas de ID do produto e nome do produto da tabela de produto
+--Este c贸digo seleciona as colunas de ID do produto e nome do produto da tabela de produto
 SELECT
 	--Productkey,
 	ProductName
